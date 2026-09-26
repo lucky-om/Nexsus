@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexsus.luckyverse.tech/sitemap.xml
+
+# Nexsus CyberLaw - nexsus.luckyverse.tech
+# Cyber Law Education & Attack Simulation Portal
+# India's Premier Interactive Legal Navigator
